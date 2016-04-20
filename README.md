@@ -4,6 +4,8 @@ Do you want to get infos about a user? Just give them the url and they are redir
 
 Furthermore you can shorten the url you get with your favourite url shortener. In Future versions this may be implemented into this service. 
 
+You need express to run this script with node.js
+
 
 
 ###GET request to /make?url=_your_url_with_http
