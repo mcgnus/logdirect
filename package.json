@@ -1,0 +1,17 @@
+{
+  "name": "logirect",
+  "version": "0.0.1",
+  "description": "Set up a hook to log user IP and user agent and redirect to individual URL",
+  "main": "red.js",
+  "keywords": [
+    "redirect",
+    "log",
+    "user",
+    "agent",
+    "ip"
+  ],
+  "author": "mcgnus",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
