@@ -28,7 +28,8 @@ user clicks on link and gets redirected to http://www.google.com
 
 GET request to /logs/123
 view user stats:
-*Wed Apr 20 2016 05:37:29 GMT+0200 (CEST) Request for http://www.gidf.de from ::1 with Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.75 Safari/537.36
+
+* Wed Apr 20 2016 05:37:29 GMT+0200 (CEST) Request for http://www.gidf.de from ::1 with Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.75 Safari/537.36
 
 
 
