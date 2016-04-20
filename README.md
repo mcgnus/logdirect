@@ -22,15 +22,15 @@ Shows timestamps, IPs and User Agents who accessed the page saved with ID.
 ###Examples:
 1. GET request to `/make?url=http://www.google.com`
 
-Received: ```{"tag":123}```
+* Received: ```{"tag":123}```
 
 2. link for the user: `/get/123`
 
-user clicks on link and gets redirected to `http://www.google.com`
+* user clicks on link and gets redirected to `http://www.google.com`
 
 3. GET request to `/logs/123`
 
-view user stats:
+* view user stats:
 ```
 Wed Apr 20 2016 02:32:21 GMT+0600 (CEST) Request for http://www.google.de from 127.0.0.1 with Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.75 Safari/537.36
 ```
