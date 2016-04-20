@@ -32,5 +32,6 @@ Shows timestamps, IPs and User Agents who accessed the page saved with ID.
 `
 
 
-####Future work: 
-Implement url shortener 
+####TODO:
+* Add frontend
+* Implement url shortener 
