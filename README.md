@@ -18,5 +18,17 @@ Redirects the user to the page saved with ID or to "https://www.google.com" when
 Shows timestamps, IPs and User Agents who accessed the page saved with ID.
 
 
+
+####Examples
+asdf 
+
+
+
+
+
+
+
+
+
 ##Future work: 
 Implement url shortener 
